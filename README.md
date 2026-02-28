@@ -9,6 +9,7 @@ This project demonstrates my ability to clean, model, analyze, and visualize rea
 This Power BI dashboard analyzes electric vehicle (EV) adoption trends across states, manufacturers, model years, and vehicle types. It provides clear insights into market growth, regional distribution, and consumer preferences to support data-driven decision making.
 
 ---
+![Dashboard Preview](https://github.com/Saijal-choudhary/Electric-Vehicle-Analysis/blob/main/Dashboard%20Snapshot.png)
 ## 2️⃣ Tech Stack
 
 - **Power BI** – Dashboard development & interactive visualization  
