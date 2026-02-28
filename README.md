@@ -83,5 +83,5 @@ The structured format enables time-series analysis, geographic comparison, and m
 This project demonstrates my ability to clean, model, analyze, and visualize real-world data using Power BI while delivering clear, business-oriented insights through interactive dashboards.
 
 ---
-
+⭐ If you found this project interesting, feel free to explore and provide feedback!
 
